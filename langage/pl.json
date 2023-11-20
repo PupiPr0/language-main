@@ -1,10 +1,10 @@
 { 
-    "cryptonews": "Crypto News", 
-    "onlycurrent": "tylko prąd",
-    "signal": "Crypto Signal",
-    "freeprofitable": "bezpłatne opłacalne",
-    "getabonus": "zdobądź bonus",
+    "cryptonews": "Wiadomości kryptowalutowe",
+    "onlycurrent": "tylko aktualne",
+    "signal": "Sygnały kryptowalutowe",
+    "freeprofitable": "darmowe opłacalne",
+    "getabonus": "otrzymaj bonus",
     "reg": "Rejestracja",
-    "join": "Dołącz do społeczności !",
-    "subs": "abonenci na"
+    "join": "Dołącz do społeczności!",
+    "subs": "subskrybuj"
 }
